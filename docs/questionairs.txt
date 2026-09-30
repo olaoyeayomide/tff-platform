@@ -1,0 +1,19 @@
+Why are we using SQLAlchemy and Postgres
+
+Now 
+SQLAlchemy lets us represe4nt:
+profiles
+menu_items
+orders
+payments
+
+as python models for example
+
+class Order:
+    id
+    customer_id
+    source
+    fulfillment_type
+    subtotal
+    total_amount
+    status
