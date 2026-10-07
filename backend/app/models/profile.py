@@ -13,6 +13,7 @@ class Base(DeclarativeBase):
 class UserRole(str, Enum):
     CUSTOMER = "CUSTOMER"
     KITCHEN_STAFF = "KITCHEN_STAFF"
+    ADMIN = "ADMIN"
 
 
 class Profile(Base):

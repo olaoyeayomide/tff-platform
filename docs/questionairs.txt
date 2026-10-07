@@ -17,3 +17,40 @@ class Order:
     subtotal
     total_amount
     status
+
+
+eyJhbGciOiJFUzI1NiIsImtpZCI6IjI2YTJmMmMwLWExM2MtNDIzZi04OWVlLWE2ZmYwOGI3MjJmNyIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL21udHBtd2h5amJsY2VtZ3liaGVuLnN1cGFiYXNlLmNvL2F1dGgvdjEiLCJzdWIiOiJmNWNkZDYxMi1hMzAxLTRhZjItOTI1Yy01Y2RjNGRlMWU5ZWMiLCJhdWQiOiJhdXRoZW50aWNhdGVkIiwiZXhwIjoxNzkxMzk5NjQwLCJpYXQiOjE3OTEzOTYwNDAsImVtYWlsIjoiYXlvbWlkZW9sYW95ZTg0QGdtYWlsLmNvbSIsInBob25lIjoiIiwiYXBwX21ldGFkYXRhIjp7InByb3ZpZGVyIjoiZW1haWwiLCJwcm92aWRlcnMiOlsiZW1haWwiXX0sInVzZXJfbWV0YWRhdGEiOnsiZW1haWxfdmVyaWZpZWQiOnRydWV9LCJyb2xlIjoiYXV0aGVudGljYXRlZCIsImFhbCI6ImFhbDEiLCJhbXIiOlt7Im1ldGhvZCI6InBhc3N3b3JkIiwidGltZXN0YW1wIjoxNzkxMzk2MDQwfV0sInNlc3Npb25faWQiOiIxMzYwZjJmNC1mZDlmLTRlYWItOTdmNS04NTE1MjdjZDY5MjgiLCJpc19hbm9ueW1vdXMiOmZhbHNlfQ.Luf_DC8tk5YlhRPELgYwF0fUbxp3i6GOVPGLH1MFsk6682OPIUFB_oZtJA4ehxUtxFs_3mAXjfuPmQPXnGyIhw
+
+
+
+
+
+PHASE 0 — Project Foundation
+        ↓
+PHASE 1 — Supabase / Database
+        ↓
+PHASE 2 — FastAPI Backend Foundation
+        ↓
+PHASE 3 — Authentication + RBAC
+        ↓
+PHASE 4 — Menu System
+        ↓
+PHASE 5 — Customer Ordering
+        ↓
+PHASE 6 — Payment + Fulfillment Rules
+        ↓
+PHASE 7 — Station Manager / Kitchen Dashboard
+        ↓
+PHASE 8 — Realtime Order Tracking
+        ↓
+PHASE 9 — Admin Dashboard
+        ↓
+PHASE 10 — Chowdeck / Glovo Integration
+        ↓
+PHASE 11 — Validation, Security & Error Handling
+        ↓
+PHASE 12 — Testing
+        ↓
+PHASE 13 — Deployment
+        ↓
+PHASE 14 — Interview Demo + Documentation
